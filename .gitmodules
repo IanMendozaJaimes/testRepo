@@ -1,0 +1,3 @@
+[submodule "compiladores-repo"]
+	path = compiladores-repo
+	url = https://github.com/IanMendozaJaimes/compiladores
